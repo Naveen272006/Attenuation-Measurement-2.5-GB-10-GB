@@ -77,9 +77,19 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ![2 5 GB](https://github.com/user-attachments/assets/d855c726-e0c3-441e-a4f6-4b62c9d286db)
 
+## LOW NOISE FOR 2.5GB
+<img width="969" height="728" alt="2 5GB LOW - NOISE" src="https://github.com/user-attachments/assets/641e1a0d-e4ed-4c27-8e1d-ebc57ceacbb7" />
+## HIGH NOISE FOR 2.5GB
+<img width="965" height="732" alt="2 5GB HIGH - NOISE" src="https://github.com/user-attachments/assets/376b9d64-e12f-4e1f-93eb-c808778d639d" />
+
 ## TABULATION OF 10GB
 
 ![10 GB](https://github.com/user-attachments/assets/9bd0ba93-54d0-4eab-8834-845b7167e461)
+
+## LOW NOISE FOR 10GB
+<img width="969" height="737" alt="10GB LOW - NOISE" src="https://github.com/user-attachments/assets/58c5eb01-f727-4b9e-9a81-96958f303601" />
+## HIGH NOISE FOR 10GB
+<img width="968" height="734" alt="10GB HIGH - NOISE" src="https://github.com/user-attachments/assets/fab55ecf-bf6e-46fa-9872-b345fdf7cfd3" />
 
 
 ## Analysis and Report
