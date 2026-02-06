@@ -95,6 +95,7 @@ Using the power budget equation and the parameters below, determine the attenuat
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
 
+
 Your report should contain:
 - **Cover Page**
   - Title of the lab  
