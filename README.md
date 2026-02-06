@@ -91,10 +91,11 @@ Using the power budget equation and the parameters below, determine the attenuat
 ## HIGH NOISE FOR 10GB
 <img width="968" height="734" alt="10GB HIGH - NOISE" src="https://github.com/user-attachments/assets/fab55ecf-bf6e-46fa-9872-b345fdf7cfd3" />
 
-
 ## Analysis and Report
+
 Compare simulation results with pre-lab calculations and record observations.  
 Your report should contain:
+
 - **Cover Page**
   - Title of the lab  
   - Course name and number  
@@ -110,9 +111,6 @@ Your report should contain:
   
 
 - **Written Summary** of observations and explanations of differences.
-
-
-
 ## Result
 
 Thus the Attenuation of 10GB and 2.5GB was observed and calculated.
