@@ -110,4 +110,8 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+## Result
+
+Thus the Attenuation of 10GB and 2.5GB was observed and calculated.
