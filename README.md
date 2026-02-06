@@ -6,16 +6,13 @@
 - Simulate the resulting system and verify that it meets performance objectives.
 
 ---
-
 ## Theory
 The **power budget equation** states that the power budget in a transmission system must equal the sum of all power losses plus the power margin.  
 
 The power budget is the difference between the transmitter output power and the receiver sensitivity in dBm:
-
 \[
 P_T - S_R = A \cdot L_F + L_C + L_A + M
 \]
-
 Where:
 - **PT** = transmitter output power (dBm)  
 - **SR** = receiver sensitivity (dBm)  
@@ -26,11 +23,9 @@ Where:
 - **M** = power margin (dB)  
 
 In this exercise, all parameters are given except the fiber length, which must be determined.  
-
 The **receiver sensitivity** is defined as the minimum power required to achieve a BER of \(10^{-9}\), corresponding to a Q factor of 6.  
 - Receiver sensitivity depends on the bit rate.  
 - Fiber attenuation depends on the operating wavelength.  
-
 ---
 
 ## Pre-lab Calculations
@@ -45,7 +40,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 - **Loss per connector:** 0.5 dB  
 - **Additional known losses:** 0 dB  
 - **Power margin:** 6 dB  
-
 ---
 
 ## Layout
@@ -109,7 +103,6 @@ Your report should contain:
   | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
   |-------------------|-----------------------|----------|-----|
   
-
 - **Written Summary** of observations and explanations of differences.
 ## Result
 
